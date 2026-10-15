@@ -70,6 +70,14 @@ explorer time.
 > Not every experiment needs to become a product.
 > **Learning something reliable is already progress.**
 
+## Learnings
+
+Experiments do not always become products. We record lessons, including failed
+attempts, so future work can benefit.
+
+[Learning Log](https://cunilab.github.io/learnings/) ·
+[Learning 001 — Cairn: When AI Builds More Than I Understand](https://cunilab.github.io/learnings/cairn-ai-overdelegation.html)
+
 ## Lab rules
 
 - **Curiosity first.** The subject can change; the method doesn't.
